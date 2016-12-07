@@ -1233,7 +1233,7 @@ int main() {
   dmp_test.run_all_tests();
   cout << "Done." << endl;
   // Test sj
-  cout << "Test" << endl;
+  //cout << "Test" << endl;
   cout << "Hotfix sj" << endl;
   return 0;
 }
